@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
+"Perfect is the enemy of good"
 Use the left arrow to go back!
